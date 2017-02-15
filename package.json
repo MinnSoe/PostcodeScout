@@ -1,0 +1,14 @@
+{
+  "name": "postcodescout",
+  "version": "0.0.1",
+  "description": "Alexa skill for scouting out a UK postcode.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Minn Soe",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-sdk": "^1.0.7"
+  }
+}
